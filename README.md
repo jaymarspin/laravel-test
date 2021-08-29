@@ -1,4 +1,4 @@
-# lTest for new applicants @keripo
+
 
 # in the front-end folder, open an integrated terminal then run npm i or yarn install
 
